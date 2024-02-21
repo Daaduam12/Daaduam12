@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daaduam12&" alt="daaduam12" /></p>
 
 ### My Github Contributions
-![Snake animation] (https://Daaduam12/Daaduam12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation] (https://github.com/Daaduam12/Daaduam12/blob/output/github-contribution-grid-snake.svg)
